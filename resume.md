@@ -1,70 +1,74 @@
 ---
-layout: resume
+layout: CV
 ---
 ## Currently
 
-Current Position Description
+PhD Candidate University of California Riverside
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+*2017-Current*
+**University of California Riverside*
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2012-2015`
+__California State University Long Beach__
+MA
+
+`2010 - 2012`
+__California State University Long Beach__
+BA
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+**Eugene Cota Robles Award**
+University of California Riverside
+
+**President’s List**
+California State University Long Beach
+
+**Graduate Dean’s List**
+California State University Long Beach, College of Liberal Arts
+
+**Rodney Steiner Scholarship**
+California State University  Long Beach Department of Geography
+
+**Exceptional Student Achievement Award**
+California State University  Long Beach, College of Liberal Arts
+
+**Graduate Research Fellowship**
+California State University  Long Beach, College of Liberal Arts
+
+**Graduate Research Enhancement Fund**
+California State University  Long Beach Department of Geography
 
 ## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+## Projects/Presentations
 
-`1994`
-Article Title, Journal Title
+River Ridge Ranch Long-Term Research Site
+NSF-REU proposal in progress
 
-`1994`
-Article Title, Journal Title
+Mills, Mystyn (2014). Bringing light to below ground Patterns: Arbuscular mycorrhizae fungi along an elevation gradient in Southern California.
+PAPER PRESENTED AT THE ASSOCIATION OF PACIFIC COAST GEOGRAPHERS 2014 CONFERENCE
 
-### Books
+Mills, Mystyn (2013). Is there fungus among us? Presence and absence of mycorrhizae fungus in California sage scrub.
+PAPER PRESENTED AT SOUTHERN CALIFORNIA ACADEMY OF SCIENCES 2013 CONFERENCE
 
-`1994`
-Book Title, Journal Title
+Mills, Mystyn (2013). Mars chemicals and surface types. POSTER PRESENTED AT CALIFORNIA STATE UNIVERSITY 2013 RESEARCH CONFERENCE
 
-`1994`
-Book Title, Journal Title
+Mills, Mystyn (2012). Bulldozing to create habitat for the endangered Palos Verdes blue butterfly.
+PAPER PRESENTED AT SOUTHERN CALIFORNIA ACADEMY OF SCIENCES 2012 CONFERENCE
 
+Ann Dalkey, Mystyn Mills and Albert Fernandez (2012).
+Shifts in diets exhibited by coyotes living in the wildland-urban interface.
+PAPER PRESENTED AT SOUTHERN CALIFORNIA ACADEMY OF SCIENCES 2012 CONFERENCE
 
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
-
-## Occupation
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
+Western Pond Turtle - Tracking and Habitat Mapping
+2011-2012
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: June 2020 -->

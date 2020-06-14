@@ -1,5 +1,5 @@
 ---
-layout: CV
+layout: Resume
 ---
 ## Currently
 
@@ -8,14 +8,14 @@ PhD Candidate University of California Riverside
 ## Education
 
 *2017-Current*
-**University of California Riverside*
+**University of California Riverside**
 
-`2012-2015`
-__California State University Long Beach__
+*2012-2015*
+**California State University Long Beach**
 MA
 
-`2010 - 2012`
-__California State University Long Beach__
+*2010 - 2012*
+**California State University Long Beach**
 BA
 
 ## Awards
@@ -40,10 +40,6 @@ California State University  Long Beach, College of Liberal Arts
 
 **Graduate Research Enhancement Fund**
 California State University  Long Beach Department of Geography
-
-## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ## Projects/Presentations
 
